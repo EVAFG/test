@@ -17,7 +17,7 @@
     },
     {
       "source": "main",
-      "target": "truck.o",
+      "target": "Truck.o",
       "value": 1
     },
     {

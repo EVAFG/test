@@ -1,0 +1,166 @@
+{
+  "links": [
+    {
+      "source": "main",
+      "target": "main.o",
+      "value": 1
+    },
+    {
+      "source": "main",
+      "target": "Car.o",
+      "value": 1
+    },
+    {
+      "source": "main",
+      "target": "SUV.o",
+      "value": 1
+    },
+    {
+      "source": "main",
+      "target": "truck.o",
+      "value": 1
+    },
+    {
+      "source": "main",
+      "target": "Automobile.o",
+      "value": 1
+    },
+    {
+      "source": "main.o",
+      "target": "main.cpp",
+      "value": 1
+    },
+    {
+      "source": "Car.o",
+      "target": "Car.cpp",
+      "value": 1
+    },
+    {
+      "source": "SUV.o",
+      "target": "SUV.cpp",
+      "value": 1
+    },
+    {
+      "source": "Truck.o",
+      "target": "Truck.cpp",
+      "value": 1
+    },
+    {
+      "source": "Automobile.o",
+      "target": "Automobile.cpp",
+      "value": 1
+    },
+    {
+      "source": "main.cpp",
+      "target": "Car.h",
+      "value": 1
+    },
+    {
+      "source": "main.cpp",
+      "target": "SUV.h",
+      "value": 1
+    },
+    {
+      "source": "main.cpp",
+      "target": "Truck.h",
+      "value": 1
+    },
+    {
+      "source": "Car.cpp",
+      "target": "Car.h",
+      "value": 1
+    },
+    {
+      "source": "Car.cpp",
+      "target": "Automobile.h",
+      "value": 1
+    },
+    {
+      "source": "SUV.cpp",
+      "target": "SUV.h",
+      "value": 1
+    },
+    {
+      "source": "SUV.cpp",
+      "target": "Automobile.h",
+      "value": 1
+    },
+    {
+      "source": "Truck.cpp",
+      "target": "Truck.h",
+      "value": 1
+    },
+    {
+      "source": "Truck.cpp",
+      "target": "Automobile.h",
+      "value": 1
+    },
+    {
+      "source": "Automobile.cpp",
+      "target": "Automobile.h",
+      "value": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "main",
+      "group": 1
+    },
+    {
+      "id": "main.o",
+      "group": 2
+    },
+    {
+      "id": "main.cpp",
+      "group": 3
+    },
+    {
+      "id": "Car.o",
+      "group": 2
+    },
+    {
+      "id": "Car.cpp",
+      "group": 4
+    },
+    {
+      "id": "Car.h",
+      "group": 6
+    },
+    {
+      "id": "SUV.o",
+      "group": 2
+    },
+    {
+      "id": "SUV.cpp",
+      "group": 4
+    },
+    {
+      "id": "SUV.h",
+      "group": 6
+    },
+    {
+      "id": "Truck.o",
+      "group": 2
+    },
+    {
+      "id": "Truck.cpp",
+      "group": 4
+    },
+    {
+      "id": "Truck.h",
+      "group": 6
+    },
+    {
+      "id": "Automobile.o",
+      "group": 2
+    },
+    {
+      "id": "Automobile.cpp",
+      "group": 5
+    },
+    {
+      "id": "Automobile.h",
+      "group": 7
+    }
+  ]
+}
